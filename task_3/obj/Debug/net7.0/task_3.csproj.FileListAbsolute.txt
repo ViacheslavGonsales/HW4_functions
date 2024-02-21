@@ -1,0 +1,14 @@
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\bin\Debug\net7.0\task_3.exe
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\bin\Debug\net7.0\task_3.deps.json
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\bin\Debug\net7.0\task_3.runtimeconfig.json
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\bin\Debug\net7.0\task_3.dll
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\bin\Debug\net7.0\task_3.pdb
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.AssemblyInfoInputs.cache
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.AssemblyInfo.cs
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.csproj.CoreCompileInputs.cache
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.dll
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\refint\task_3.dll
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.pdb
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\task_3.genruntimeconfig.cache
+C:\Users\Gonsales\Desktop\HW4_Functions\HW4_functions\task_3\obj\Debug\net7.0\ref\task_3.dll
